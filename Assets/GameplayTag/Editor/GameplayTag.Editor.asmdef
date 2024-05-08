@@ -1,0 +1,18 @@
+{
+    "name": "GameplayTag.Editor",
+    "rootNamespace": "EGF.Editor",
+    "references": [
+        "GUID:8ecd8edcc5f1fe44d9c375d889de8414"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,10 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/GameplayTag/Editor/UIBuilder/uss_gameplay_tag.uss?fileID=7433441132597879392&amp;guid=acc2662a8df79dd40ac3049351c666b4&amp;type=3#uss_gameplay_tag" />
+    <ui:VisualElement class="flex-row" style="flex-grow: 1; align-items: center;">
+        <ui:Label tabindex="-1" text="Label" parse-escape-sequences="true" display-tooltip-when-elided="true" name="space" style="-unity-text-align: middle-left;" />
+        <ui:VisualElement name="tag" class="flex-row" style="flex-grow: 1; margin-top: 1px; margin-bottom: 1px;">
+            <ui:Toggle style="background-color: rgba(0, 0, 0, 0.51);" />
+            <ui:Label tabindex="-1" text="Label" parse-escape-sequences="true" display-tooltip-when-elided="true" style="flex-grow: 1; -unity-text-align: middle-left; padding-left: 4px;" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

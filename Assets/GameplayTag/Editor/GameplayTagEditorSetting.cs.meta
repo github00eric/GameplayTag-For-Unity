@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a51e09711360b8c409dffa2be44b77e7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - styleUss: {fileID: 7433441132597879392, guid: acc2662a8df79dd40ac3049351c666b4, type: 3}
+  - tagEditorXml: {fileID: 9197481963319205126, guid: 4a83cf9a46119a84b84970f0c77e73b2, type: 3}
+  - tagDataElementXml: {fileID: 9197481963319205126, guid: 6f55e71d68134b94093e71c28e37c8ae, type: 3}
+  - tagContainer: {fileID: 9197481963319205126, guid: e38e513e1ff448b4a916c5a5c334f5e0, type: 3}
+  - tagContainerElement: {fileID: 9197481963319205126, guid: 95d7abc40ceeae04b8259a75ad78ac67, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

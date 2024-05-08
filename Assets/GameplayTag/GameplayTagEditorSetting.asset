@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a51e09711360b8c409dffa2be44b77e7, type: 3}
+  m_Name: GameplayTagEditorSetting
+  m_EditorClassIdentifier: 
+  styleUss: {fileID: 7433441132597879392, guid: acc2662a8df79dd40ac3049351c666b4, type: 3}
+  tagEditorXml: {fileID: 9197481963319205126, guid: 4a83cf9a46119a84b84970f0c77e73b2, type: 3}
+  tagDataElementXml: {fileID: 9197481963319205126, guid: 6f55e71d68134b94093e71c28e37c8ae, type: 3}
+  tagContainer: {fileID: 9197481963319205126, guid: e38e513e1ff448b4a916c5a5c334f5e0, type: 3}
+  tagContainerElement: {fileID: 9197481963319205126, guid: 95d7abc40ceeae04b8259a75ad78ac67, type: 3}

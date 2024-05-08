@@ -1,0 +1,52 @@
+.flex-row {
+    flex-direction: row;
+}
+
+.show-detail {
+    visibility: visible;
+    width: auto;
+    height: auto;
+    max-height: 60px;
+}
+
+.hide-detail {
+    height: 0;
+    visibility: hidden;
+}
+
+.contain-tag-on {
+    background-color: rgb(188, 188, 188);
+    border-left-color: rgb(127, 127, 127);
+    border-right-color: rgb(127, 127, 127);
+    border-top-color: rgb(127, 127, 127);
+    border-bottom-color: rgb(127, 127, 127);
+    border-top-width: 2px;
+    border-right-width: 2px;
+    border-bottom-width: 2px;
+    border-left-width: 2px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+.contain-tag-off {
+    background-color: rgba(0, 0, 0, 0);
+    border-left-color: rgba(0, 0, 0, 0);
+    border-right-color: rgba(0, 0, 0, 0);
+    border-top-color: rgba(0, 0, 0, 0);
+    border-bottom-color: rgba(0, 0, 0, 0);
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    border-bottom-width: 0;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+}
+
+.contain-tag-text {
+    color: rgb(27, 27, 27);
+    -unity-font-style: bold;
+}

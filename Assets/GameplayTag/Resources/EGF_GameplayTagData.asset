@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b083e7a69eb60547973614254416e88, type: 3}
+  m_Name: EGF_GameplayTagData
+  m_EditorClassIdentifier: 
+  rootNode:
+    rid: 1879441564582805513
+  references:
+    version: 2
+    RefIds:
+    - rid: 1879441564582805513
+      type: {class: GTagTrieNode, ns: EGF, asm: GameplayTag}
+      data:
+        depth: 0
+        name: 
+        hash:
+          hash0: 0
+          hash1: 0
+          hash2: 0
+          hash3: 0
+        subNodes:
+        - rid: 1879441564582805514
+        - rid: 1879441564582805515
+    - rid: 1879441564582805514
+      type: {class: GTagTrieNode, ns: EGF, asm: GameplayTag}
+      data:
+        depth: 0
+        name: Buff
+        hash:
+          hash0: 1562013267
+          hash1: 0
+          hash2: 0
+          hash3: 0
+        subNodes:
+        - rid: 1879441564582805516
+    - rid: 1879441564582805515
+      type: {class: GTagTrieNode, ns: EGF, asm: GameplayTag}
+      data:
+        depth: 0
+        name: Debuff
+        hash:
+          hash0: 1318853780
+          hash1: 0
+          hash2: 0
+          hash3: 0
+        subNodes: []
+    - rid: 1879441564582805516
+      type: {class: GTagTrieNode, ns: EGF, asm: GameplayTag}
+      data:
+        depth: 1
+        name: Buff.Protect
+        hash:
+          hash0: 1562013267
+          hash1: 202142871
+          hash2: 0
+          hash3: 0
+        subNodes: []
