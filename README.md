@@ -8,3 +8,5 @@ A simple gameplay tag system for Unity, inspired by Unreal Engine.
 ![Editor](/ImageNotes/OpenTagEditor.png)
 
 ![Container](/ImageNotes/TagContainerPreview.png)
+
+使用基于整数哈希比较的前缀树实现较高的标签匹配效率。
